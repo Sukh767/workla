@@ -46,7 +46,7 @@ const HeroSection = () => {
               <div className="w-64 h-[500px] bg-gray-900 rounded-[2.5rem] p-2 shadow-2xl">
                 <div className="w-full h-full bg-white rounded-[2rem] overflow-hidden">
                   <div className="bg-primary h-16 flex items-center justify-center">
-                    <span className="text-white font-semibold">MyJobee Jobs</span>
+                    <span className="text-white font-semibold">Workla Jobs</span>
                   </div>
                   <div className="p-4 space-y-3">
                     {[1, 2, 3, 4, 5, 6].map((item) => (

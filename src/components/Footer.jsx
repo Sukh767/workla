@@ -12,7 +12,7 @@ const Footer = () => {
         <div className="grid md:grid-cols-4 gap-8">
           {/* About */}
           <div>
-            <h3 className="text-lg font-semibold mb-4">About MyJobee</h3>
+            <h3 className="text-lg font-semibold mb-4">About Workla</h3>
             <ul className="space-y-2 text-gray-300">
               <li><a href="#" className="hover:text-white transition-colors">Our Story</a></li>
               <li><a href="#" className="hover:text-white transition-colors">Careers</a></li>
@@ -75,7 +75,7 @@ const Footer = () => {
         </div>
         
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-          <p>&copy; 2024 MyJobee. All rights reserved. Made with ❤️ for job seekers across India.</p>
+          <p>&copy; 2024 Workla. All rights reserved. Made with ❤️ for job seekers across India.</p>
         </div>
       </div>
     </footer>

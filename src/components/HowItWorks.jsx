@@ -7,7 +7,7 @@ const HowItWorks = () => {
       number: '1',
       icon: Download,
       title: 'Download the App',
-      description: 'Get MyJobee from Google Play Store or download the APK directly.'
+      description: 'Get Workla from Google Play Store or download the APK directly.'
     },
     {
       number: '2',

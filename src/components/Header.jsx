@@ -13,11 +13,11 @@ const Header = ({ isDark, onThemeToggle }) => {
           <div className="flex items-center space-x-2">
             <img 
               src="/WL-Logo.jpg" 
-              alt="MyJobee" 
+              alt="Workla" 
               className="w-8 h-8 rounded-lg"
             />
             <span className="text-xl font-bold text-primary dark:text-white">
-              MyJobee
+              Workla
             </span>
           </div>
 

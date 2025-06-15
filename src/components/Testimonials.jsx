@@ -44,7 +44,7 @@ const Testimonials = () => {
             Success Stories
           </h2>
           <p className="text-xl text-blue-100">
-            Real people, real success with MyJobee
+            Real people, real success with Workla
           </p>
         </div>
 

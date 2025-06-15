@@ -34,7 +34,7 @@ const TargetAudience = () => {
             Who is it for?
           </h2>
           <p className="text-xl text-gray-600 dark:text-gray-300">
-            MyJobee connects job seekers across all industries
+            Workla connects job seekers across all industries
           </p>
         </div>
 
